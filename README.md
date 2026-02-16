@@ -1,4 +1,4 @@
 # demo
 First repository
 <br>
-author :  Durwansh Sharnagat
+author :  Durwansh Sharnagat (gondia)
