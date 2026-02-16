@@ -1,4 +1,4 @@
 # demo
 First repository
 <br>
-author :  Durwansh
+author :  Durwansh Sharnagat
